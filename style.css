@@ -1,0 +1,38 @@
+/* CSS Document */
+
+#navcontainer ul{
+	          padding-left: 0;
+	          margin-left: 0;
+	          background-color: #07634A;
+                          color: White;
+	          float: left;
+	          width: 850px;
+	          font-family: arial, helvetica, sans-serif;
+	          margin:0;
+	          padding:0;
+	        }
+
+#navcontainer ul li { 
+	              display: inline; 
+	            }
+
+#navcontainer ul li a{
+	              padding: 0.2em 1em;
+	              background-color: #07634A;
+	              color: White;
+	              text-decoration: none;
+	              float: left;
+	              border-right: 1px solid #fff;
+	             }
+
+#navcontainer ul li a:hover{
+	                        background-color: #A11923;
+                                        color: #fff;
+		       }
+
+table_bg {
+	background-color: #2C0F11;
+              }
+.white_table {
+	     background-color: ##FFFFCC;
+                    }
